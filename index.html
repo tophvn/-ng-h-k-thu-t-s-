@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advanced Digital Clock</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css">
+</head>
+<body>
+    <div class="digital-clock">
+        <i class="uil uil-ellipsis-v dot-menu-btn" id="active-menu"></i>
+        <ul class="dot-menu" id="active-menu">
+            <li class="menu-item" id="active-menu">
+              <span class="clock-format-text" id="active-menu">24-Hour Format</span>
+              <div class="format-switch-btn" id="active-menu" date-format="12"></div>
+            </li>
+          </ul>
+        <div class="time">
+            <span class="hours">00</span>
+            <span class="dots">:</span>
+            <span class="minutes">00</span>
+    
+            <div class="right-side">
+                <div class="period">AM</div>
+                 <span class="seconds">00</span>
+            </div>
+        </div>
+
+        <div class="calendar">
+            <span class="month-name">Month</span>,
+            <span class="day-name">DAY</span>
+            <span class="day-number">00</span>
+            <span class="year">0000</span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
