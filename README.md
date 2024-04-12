@@ -13,6 +13,6 @@ Advanced Digital Clock
 
 ## Cài đặt và Sử dụng
 1. Clone repository này về máy của bạn:
-git clone https://github.com/tophvn/AdvancedDigitalClock.git
+`git clone https://github.com/tophvn/AdvancedDigitalClock.git`
 
 2. Mở file `index.html` trong trình duyệt web của bạn.
