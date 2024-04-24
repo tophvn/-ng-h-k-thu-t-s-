@@ -12,7 +12,7 @@ Advanced Digital Clock
 - Chế độ 24 giờ hoặc 12 giờ.
 
 ## Cài đặt và Sử dụng
-1. Clone repository này về máy của bạn:
+1. Clone repository:
 `git clone https://github.com/tophvn/AdvancedDigitalClock.git`
 
 2. Mở file `index.html` trong trình duyệt web của bạn.
